@@ -1,0 +1,50 @@
+dir
+git remot -v
+git remote -v
+git status 
+git status
+ren 5*.gitignore*
+git 
+git ren 5*.gitignore*
+git --help
+git clone https://github.com/Jansen-Killinger-Cara/senai-versoes-colaboracoescls
+cls
+git add 
+git commit -m
+git ".gitignore" ren5*.git*
+git status
+cls
+git  (ren5*.git* .gitignore)
+ren 5*.git* .gitignore
+git .gitignore "arquivo_nao_publicado.txt"
+git status
+gti origin
+git origin
+git origin master
+cls
+git status
+git pull
+git add .
+git status
+git commit -m "adicionando o .gitignore"
+git clone https://github.com/Jansen-Killinger-Cara/senai-versoes-colaboracoes
+git push -u origin 
+git pull --force
+git remote -v
+git submodulo add https://github.com/Jansen-Killinger-Cara/senai-versoes-colaboracoes
+git push -u origin
+git push -u origin master
+cls
+git status
+git checkuot
+git checkout
+git push -u origin
+git add .
+git commit -m "adicionando o gitignore"
+git status
+git commit -m "adicionando o .gitignore"
+dir 
+echo "arquivo de 1 linha" >>leonardo.txt
+dir
+type leonardo.txt
+doskey /h >comandos_hoje.txt
